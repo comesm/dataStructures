@@ -51,7 +51,7 @@ function mergeSort(array) {
       } 
   
   
-  
+      //
       //return;
   }
   
